@@ -7,7 +7,7 @@ For this assignment, you will make a simple "game" that does the following:
 * draws a "ball" representing each of the top 6 adjectives
 * allows the user to "pop" each balls by typing the first letter in the word contained in the ball
 
-For a demo of how the game should work when it's complete, see the demo.
+For a demo of how the game should work when it's complete, see [the demo video](https://www.youtube.com/watch?v=o7XdEKSpxEM).
 
 Yes, that's a pretty arbitrary game and it's not really all that fun to play. But it's a GREAT exercise to help us find out if 507 would be redundant for you. 
 
