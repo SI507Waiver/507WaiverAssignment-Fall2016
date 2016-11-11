@@ -24,10 +24,10 @@ I have provided some starter code that demonstrates how to render stuff using py
 
 Some pointers to get you started:
 * Use python 3 (I'm using 3.5.1, and I have no idea what you'll run into if you use a different version of python)
-* Use the latest NLTK (3.0) (see <www.nltk.org>)
+* Use the latest NLTK (3.0) (see <http://www.nltk.org>)
 * Use the latest wikipedia api for pytyon (1.4.0) (see <https://pypi.python.org/pypi/wikipedia/>)
 * Use the latest pygame (1.9.1) (see <http://pygame.org/download.shtml>)
-** Note that on my MacBook Pro I was able to just pip install pygame and had no issues--I didn't need to install any support drivers or anything. Lucky me! I gather that Windows users may have a bit more of a struggle, but rest assured that pygame is popular enough that you ought to be able to find a solution online for your particular configuration. I would definitely recommend not waiting til the last minute on this, though!
+	* Note that on my MacBook Pro I was able to just pip install pygame and had no issues--I didn't need to install any support drivers or anything. Lucky me! I gather that Windows users may have a bit more of a struggle, but rest assured that pygame is popular enough that you ought to be able to find a solution online for your particular configuration. I would definitely recommend not waiting til the last minute on this, though!
 
 Other notes:
 * Please don't use any *other* third-party libraries if at all possible (my solution didn't need any others, so I know it should be possible). Keep in mind that I need to be able to run and grade upwards of 60 of these things, and it won't work if I have to install a bunch of other libraries.
