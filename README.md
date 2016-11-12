@@ -33,3 +33,6 @@ Other notes:
 * Please don't use any *other* third-party libraries if at all possible (my solution didn't need any others, so I know it should be possible). Keep in mind that I need to be able to run and grade upwards of 60 of these things, and it won't work if I have to install a bunch of other libraries.
 * If you already have a python installation on your machine with a bunch of libraries, etc., I strongly recommend you set up a [virtualenv](https://virtualenv.pypa.io/en/stable/) for this assignment to avoid any possible library confilcts. 
 
+How to submit:
+* Push all of your changes to the GitHub repository you created for the assignment.
+* [Fill out the submissiom form](https://docs.google.com/forms/d/e/1FAIpQLScWlx-pPS0mC7z1YGwRkzsnQvU2WjNPfBaTQbm-Uj2b-u857g/viewform) ONLY after you have completed your assignment and are ready for it to be graded. Your assignment will only be graded if you submit the form, and it can be graded any time after you submit the form.
