@@ -36,4 +36,4 @@ Other notes:
 How to submit:
 * Push all of your changes to the GitHub repository you created for the assignment.
 * [Fill out the submissiom form](https://docs.google.com/forms/d/e/1FAIpQLScWlx-pPS0mC7z1YGwRkzsnQvU2WjNPfBaTQbm-Uj2b-u857g/viewform) ONLY after you have completed your assignment and are ready for it to be graded. Your assignment will only be graded if you submit the form, and it can be graded any time after you submit the form.
-* Submissions are due Wednesday 11/16 by 11:59pm.
+* Submissions are due Friday 11/10 by 11:59pm.
