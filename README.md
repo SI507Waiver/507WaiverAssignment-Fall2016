@@ -5,7 +5,7 @@ For this assignment, you will make a simple "game" that does the following:
 * performs a search on wikipedia using the search term
 * takes the content of the top 5 pages returned by the search, and determines the most common adjectives across those pages
 * draws a "ball" representing each of the top 6 adjectives
-* allows the user to "pop" each balls by typing the first letter in the word contained in the ball
+* allows the user to "pop" each ball by typing the first letter in the word contained in the ball
 
 For a demo of how the game should work when it's complete, see [the demo video](https://www.youtube.com/watch?v=o7XdEKSpxEM).
 
@@ -23,8 +23,8 @@ I have provided some starter code that demonstrates how to render stuff using py
 * when all balls are deleted, display game over screen
 
 Some pointers to get you started:
-* Use python 3 (I'm using 3.5.1, and I have no idea what you'll run into if you use a different version of python)
-* Use the latest NLTK (3.0) (see <http://www.nltk.org>)
+* Use the latest python 3 (This was all tested using 3.6.0, and I have no idea what you'll run into if you use a different version of python. Definitely do NOT user Python 2.x)
+* Use the latest NLTK (3.2.2) (see <http://www.nltk.org>)
 * Use the latest wikipedia api for pytyon (1.4.0) (see <https://pypi.python.org/pypi/wikipedia/>)
 * Use the latest pygame (1.9.1) (see <http://pygame.org/download.shtml>)
 	* Note that on my MacBook Pro I was able to just pip install pygame and had no issues--I didn't need to install any support drivers or anything. Lucky me! I gather that Windows users may have a bit more of a struggle, but rest assured that pygame is popular enough that you ought to be able to find a solution online for your particular configuration. I would definitely recommend not waiting til the last minute on this, though!
